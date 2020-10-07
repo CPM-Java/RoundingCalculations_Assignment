@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x1\ y1\ x2\ y2
+comment0.target=java.lang.String\ calcDistance(int,\ int,\ int,\ int)
+comment0.text=\n\ Computes\ the\ distance\ between\ two\ points\n\n\ @param\ \ x1\ \ integer\ where\ (x1,y1)\ (x2,y2)\n\ @param\ \ y1\ \ integer\ where\ (x1,y1)\ (x2,y2)\n\ @param\ \ x2\ \ integer\ where\ (x1,y1)\ (x2,y2)\n\ @param\ \ y2\ \ integer\ where\ (x1,y1)\ (x2,y2)\n\ @return\ \ \ \ The\ distance\ between\ the\ two\ points\ rounded\ to\ 3\ decimal\ places\ as\ a\ String\n
+comment1.params=r
+comment1.target=java.lang.String\ calcSphere(double)
+comment1.text=\n\ Computes\ the\ volume\ and\ surface\ area\ of\ a\ sphere\n\ \n\ @param\ \ r\ \ double\ representing\ the\ radius\ of\ a\ sphere\n\ @return\ \ \ \ The\ volume\ and\ surface\ area\ rounded\ to\ 3\ decimal\ places\ as\ a\ String\n
+numComments=2
